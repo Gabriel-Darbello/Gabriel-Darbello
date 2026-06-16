@@ -1,32 +1,60 @@
-<h1>Gabriel Darbello</h1>
+Gabriel Darbello
 
-<p>16 anos, estudante de desenvolvimento na <strong>ETEC Bento Quirino</strong>, Campinas — SP.</p>
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC Bento Quirino (Campinas/SP)
 
-<p>
-  Estou no início da minha trajetória como desenvolvedor. Atualmente estudo <strong>Node.js</strong> e <strong>PostgreSQL</strong>,
-  e tenho experiência básica com JavaScript, HTML, CSS e Python. Ainda tenho muito a aprender, e é isso que estou fazendo.
-</p>
+Tenho interesse em Engenharia de Software, Arquitetura de Sistemas e Inteligência Artificial Aplicada. Atualmente desenvolvo projetos utilizando Python com foco em agentes de IA, sistemas RAG (Retrieval-Augmented Generation) e aplicações baseadas em LLMs.
 
----
+Busco compreender não apenas como utilizar ferramentas de IA, mas também como projetar e construir sistemas inteligentes escaláveis, explorando conceitos como arquitetura, gerenciamento de contexto, memória, recuperação de informações e integração entre componentes.
 
-<h3>📈 Estatísticas</h3>
+⸻
+
+🚀 Projetos em Destaque
+
+Jarvis V2
+
+Assistente de IA desenvolvido em Python utilizando Programação Orientada a Objetos, gerenciamento de contexto com janela deslizante e arquitetura modular para execução de tarefas.
+
+Sistema RAG
+
+Aplicação construída com FastAPI, LangChain e ChromaDB para recuperação semântica de informações e geração de respostas contextualizadas a partir de uma base de conhecimento.
+
+Orion
+
+Projeto experimental voltado ao estudo de arquiteturas de agentes inteligentes e integração com modelos de linguagem.
+
+⸻
+
+📈 Estatísticas
 
 <img src="https://raw.githubusercontent.com/Gabriel-Darbello/Gabriel-Darbello/main/github-metrics.svg" alt="metrics"/>
 
----
+⸻
 
-<h3>🤖 Tecnologias que estou estudando</h3>
+🛠️ Tecnologias
 
 <div style="display: inline-block">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
----
+⸻
+
+📚 Atualmente Estudando
+
+* Arquitetura de Software
+* Engenharia de IA
+* LangChain
+* LangGraph
+* Docker
+* PostgreSQL Avançado
+* Sistemas Multiagentes
+
+⸻
+
+🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Darbello/Gabriel-Darbello/output/github-contribution-grid-snake-dark.svg"/>
@@ -34,15 +62,13 @@
   <img alt="cobrinha comendo commits" src="https://raw.githubusercontent.com/Gabriel-Darbello/Gabriel-Darbello/output/github-contribution-grid-snake.svg"/>
 </picture>
 
----
+⸻
 
-<h3>☎️ Contato</h3>
+📫 Contato
 
-<div>
-  <a href="https://www.instagram.com/gabriel_darbello/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:gadarbello@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gabriel-darbello-6586b7400">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gadarbello@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
